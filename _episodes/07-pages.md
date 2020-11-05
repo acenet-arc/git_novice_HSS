@@ -3,15 +3,15 @@ title: "GitHub Pages"
 teaching: 10
 exercises: 5
 questions:
-- "How can I host a simple website?"
+- "How can I host a website?"
 objectives:
 - "Learn how to host a static website with documentation or a blog on a Git Platform."
 keypoints:
 - "GitHub offers a way hosting a website on their platform."
 - "The pages are stored in a Git repository."
 - "The pages are static in a sense that there are no server-side scripts or databases."
-- "GitHub and GitLab offer building pages from e.g. Markdown files with 'Jekyll'"
-- "In those cases Jekyll is executed whenever commits are pushed to the server."
+- "GitHub builds pages from Markdown files with 'Jekyll'"
+- "Jekyll is executed whenever commits are pushed to the server."
 ---
 
 GitHub, offers hosting pages directly from a Git repository.
